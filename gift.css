@@ -131,7 +131,7 @@
 .content {
     width: 100%;
     margin-bottom: 30px;
-    background-image: url(/image/slider-default3.jpg);
+    background-image: url(slider-default3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     /* display: flex; */
@@ -200,20 +200,20 @@
 
 .item1 {
 
-    /* background-image: url(/image/collection_img1.jpg); */
+    /* background-image: url(collection_img1.jpg); */
     align-content: center;
     text-align: center;
     background-color: rgb(199, 227, 239);
 }
 
 .item2 {
-    background-image: url(/image/collection_img2.jpg);
+    background-image: url(collection_img2.jpg);
     align-content: center;
     text-align: center;
 }
 
 .item3 {
-    background-image: url(/image/ChatGPT\ Image\ Jan\ 3\,\ 2026\,\ 12_40_43\ PM.png);
+    background-image: url(ChatGPT\ Image\ Jan\ 3\,\ 2026\,\ 12_40_43\ PM.png);
     grid-column: 2 span;
     align-content: center;
     padding-left: 70px;
@@ -448,7 +448,7 @@
 
 .video-item {
     height: 500px;
-    background-image: url(/image/video_bg_image.jpg);
+    background-image: url(video_bg_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -464,7 +464,7 @@
 }
 
 .video-item1 {
-    background-image: url(/image/video_right_image.jpg);
+    background-image: url(video_right_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -612,7 +612,7 @@
 .special {
     width: 100%;
     margin-bottom: 20px;
-    background-image: url(/image/special_gift_bg.jpg);
+    background-image: url(special_gift_bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -890,7 +890,7 @@
 }
 
 .kit-item1 {
-    background-image: url(/image/basket_gift_img2.jpg);
+    background-image: url(basket_gift_img2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -928,21 +928,21 @@
 }
 
 .kit-item2 {
-    background-image: url(/image/basket_gift_img3.jpg);
+    background-image: url(basket_gift_img3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
 
 .kit-item3 {
-    background-image: url(/image/basket_gift_img4.jpg);
+    background-image: url(basket_gift_img4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
 
 .kit-item4 {
-    background-image: url(/image/basket_gift_img1.jpg);
+    background-image: url(basket_gift_img1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -1196,7 +1196,7 @@
         display: block;
         width: 100%;
         margin-bottom: 30px;
-        background-image: url(/image/slider-default3.jpg);
+        background-image: url(slider-default3.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         /* display: flex; */
@@ -1520,7 +1520,7 @@
     }
 
     .kit-item1 {
-        background-image: url(/image/basket_gift_img2.jpg);
+        background-image: url(basket_gift_img2.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         position: relative;
@@ -4424,4 +4424,5 @@
         text-align: center;
         display: block;
     }
+
 }
